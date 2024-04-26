@@ -1,0 +1,22 @@
+.AccountOverview {
+  background-color: lightblue;
+}
+
+.FeefoSupportContainer {
+  font-size: 14px;
+  color: #555; /* Text color */
+}
+
+.FeefoSupportTextTitle {
+  color: darkgray;
+}
+
+.FeefoSupportText {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.ContactRow {
+  display: flex;
+  align-items: center;
+}

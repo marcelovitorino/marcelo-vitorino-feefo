@@ -1,0 +1,45 @@
+.SalesStatsContainer {
+    margin-top: 100px;
+  }
+  
+  .SalesTable {
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-collapse: collapse;
+  }
+  
+  .SalesTableRow {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .SalesTableHeader {
+    text-align: left;
+    padding: 10px;
+  }
+  
+  .SalesTableDataPercentage {
+    color: green;
+    padding: 10px;
+    font-size: x-large;
+  }
+  
+  .SalesTableData {
+    padding: 10px;
+    color: darkgray;
+    font-size: x-large;
+  }
+  
+  .UploadIcon {
+    color: blue;
+    font-size: 24px;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .BoldText {
+    font-weight: bold;
+  }
+  
